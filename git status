@@ -1,0 +1,17 @@
+[33mcommit d81e46d3ad65d2b57593f567cc0b153367dd126a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/footer[m[33m)[m
+Author: Alfonso Vega <fonso1989@hotmail.com>
+Date:   Thu Aug 1 19:37:40 2024 -0500
+
+    Creacion de Footer en HMTL
+
+[33mcommit 7d15a006e4e43cd1a9a1fbb0f9142a61988617ea[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Diego Jiménez <diego.webdev1018@gmail.com>
+Date:   Thu Aug 1 19:02:57 2024 -0500
+
+    [+] Background colors Header, Main, Footer
+
+[33mcommit b92ba7bca21dc6d12bf6deea5bb24178a6f8199a[m
+Author: Diego Jiménez <diego.webdev1018@gmail.com>
+Date:   Thu Aug 1 18:55:55 2024 -0500
+
+    [+] Creamos la base para la rama main
